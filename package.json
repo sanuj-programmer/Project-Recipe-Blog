@@ -1,4 +1,10 @@
 {
+<<<<<<< HEAD
+=======
+  "engines": {
+    "node": "20.11.0"
+  },
+>>>>>>> 0aa039b0ecd7250e21d85383803d768fbc091f79
   "name": "cookingblog",
   "version": "1.0.0",
   "main": "index.js",
